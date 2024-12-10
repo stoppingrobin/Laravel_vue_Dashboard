@@ -1,7 +1,3 @@
-Here’s an expanded version of the text suitable for a GitHub template repository:  
-
----
-
 # Laravel Project Template with Jetstream, Inertia.js, and Vue.js  
 
 This repository serves as a **starter template** for building web applications using Laravel, Jetstream, Inertia.js, and Vue.js. With this setup, developers can quickly scaffold a modern full-stack application that combines the power of Laravel for backend development with the flexibility of Vue.js for the frontend.  
@@ -93,7 +89,3 @@ Feel free to fork this repository and contribute your improvements by submitting
 
 ## License  
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
-
---- 
-
-This expanded version provides more context, instructions, and clarity, making it easier for other developers to use the repository.
